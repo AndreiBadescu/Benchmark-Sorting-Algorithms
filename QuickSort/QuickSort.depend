@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1615736454 source:c:\users\andrei\onedrive - e-uvt.ro\desktop\proiect mpi\quicksort\main.cpp
+	"../utilities.h"
+	<iostream>
+	<chrono>
+	<fstream>
+
+1615730833 c:\users\andrei\onedrive - e-uvt.ro\desktop\proiect mpi\utilities.h
+
+1615730693 source:c:\users\andrei\onedrive - e-uvt.ro\desktop\proiect mpi\utilities.cpp
+	"utilities.h"
+	<fstream>
+
+1615995095 source:c:\users\andrei\desktop\proiect mpi\quicksort\main.cpp
+	"utilities.h"
+	<iostream>
+	<chrono>
+
+1615834465 c:\users\andrei\desktop\proiect mpi\utilities.h
+
+1615995124 source:c:\users\andrei\desktop\proiect mpi\utilities.cpp
+	"utilities.h"
+	<fstream>
+
+1615834465 c:\users\andrei\desktop\proiect mpi\quicksort\utilities.h
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1615750742 source:c:\users\andrei\desktop\proiect mpi\testgenerator\main.cpp
+	<fstream>
+	<iostream>
+	<random>
+	<cstring>
+

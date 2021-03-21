@@ -1,1 +1,1 @@
-# Benchmark-Sorting-Algorithms-C-
+# Benchmark-Sorting-Algorithms

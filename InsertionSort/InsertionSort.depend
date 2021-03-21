@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1615762634 source:c:\users\andrei\desktop\proiect mpi\utilities.cpp
+	"utilities.h"
+	<fstream>
+
+1615730833 c:\users\andrei\desktop\proiect mpi\utilities.h
+
+1615763851 source:c:\users\andrei\desktop\proiect mpi\insertionsort\main.cpp
+	"../utilities.h"
+	<iostream>
+	<chrono>
+
